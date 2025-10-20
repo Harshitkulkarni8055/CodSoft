@@ -1,1 +1,82 @@
-# CodSoft
+Internship Tasks Repository
+
+Welcome to my Internship Tasks Repository!
+This repository contains all the tasks assigned to me during my internship, including source code, documentation, and explanations.
+
+Task 1: Number Guessing Game (Java)
+
+Description:
+A simple console-based Java game where the computer generates a random number, and the player has to guess it within limited attempts.
+The game provides hints like “Too High”, “Too Low”, “A Bit High”, and “A Bit Low”, depending on how close the guess is.
+Players earn scores based on how quickly they guess the number, and can choose to play multiple rounds.
+
+Features:
+
+Random number generation (1–100)
+
+5 attempts per round
+
+Hints for close/far guesses
+
+Cumulative scoring system
+
+Option to play again
+
+Clean and user-friendly console interaction
+
+Technologies Used:
+
+Java
+
+Scanner (for user input)
+
+Math.random() (for random number generation)
+
+Sample Output:
+
+Welcome to the Number Guessing Game!
+A random number between 1 and 100 has been generated!
+You have 5 attempts to guess it.
+Enter your guess: 45
+A bit low! Try again.
+Enter your guess: 68
+Too high! Try again.
+Enter your guess: 59
+🎉 Correct! You guessed it in 3 attempts!
+Your total score: 30
+Do you want to play again? (yes/no)
+
+
+File: NumberGame.java
+
+Task 2: (To Be Updated)
+
+Description: Coming soon...
+
+Task 3: (To Be Updated)
+
+Description: Coming soon...
+
+How to Run:
+
+Clone this repository
+
+git clone https://github.com/<your-username>/<repo-name>.git
+
+
+Navigate to the project folder
+
+cd <repo-name>
+
+
+Compile and run the Java file
+
+javac Task1_NumberGuessingGame.java
+java Task1_NumberGuessingGame
+
+Author :
+
+Harshit Kulkarni
+📍 Hyderabad, India
+💼 Intern | Computer Science Engineer
+🚀 Passionate about Java, AI/ML, and Full Stack Development
