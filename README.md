@@ -61,18 +61,18 @@ How to Run:
 
 Clone this repository
 
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Harshitkulkarni8055/CodSoft.git
 
 
 Navigate to the project folder
 
-cd <repo-name>
+cd CodSoft
 
 
 Compile and run the Java file
 
-javac Task1_NumberGuessingGame.java
-java Task1_NumberGuessingGame
+javac NumberGame.java
+java NumberGame
 
 Author :
 
