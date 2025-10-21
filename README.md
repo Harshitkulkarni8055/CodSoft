@@ -49,9 +49,34 @@ Do you want to play again? (yes/no)
 
 File: NumberGame.java
 
-Task 2: (To Be Updated)
+Task 2: Student Grade Calculator (Java)
 
-Description: Coming soon...
+Description:
+A simple program that calculates a student’s total marks, average percentage, and grade based on marks entered for each subject.
+
+Features:
+
+Takes user input for number of subjects and marks (out of 100)
+
+Calculates total and average percentage
+
+Assigns grades based on performance
+
+Displays results in a clear format
+
+Grade Criteria:
+
+Average %	Grade
+90–100	O
+80–89	A
+70–79	B
+60–69	C
+50–59	D
+40–49	E
+Below 40	F
+
+File:
+StudentGradeCalc.java
 
 Task 3: (To Be Updated)
 
